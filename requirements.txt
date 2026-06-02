@@ -1,0 +1,7 @@
+numpy>=1.26
+pytest>=8.0
+kaggle-environments>=1.28.0
+kaggle>=1.6.17
+tqdm>=4.66
+orjson>=3.10
+pygame>=2.5

@@ -1,0 +1,23 @@
+{
+  "competition": "orbit-wars",
+  "replay_download_cap_gb": 100,
+  "episode_steps": 500,
+  "turn_time_budget_seconds": 0.80,
+  "hard_turn_timeout_seconds": 1.00,
+  "training": {
+    "max_vram_gb": 6,
+    "batch_size": 8192,
+    "epochs": 20,
+    "validation_split_by_episode": true
+  },
+  "ladder": {
+    "seed_start": 1,
+    "seed_count_smoke": 16,
+    "seed_count_full": 256,
+    "modes": [2, 4],
+    "proof_min_win_rate_vs_public": 0.58,
+    "proof_min_avg_rank_4p": 1.85,
+    "proof_max_p99_turn_seconds": 0.80,
+    "proof_max_error_rate": 0.0
+  }
+}
