@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,35:1d4ed8,70:9333ea,100:facc15&height=190&section=header&text=OrbitWars&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Agents%2C%20orbital%20mechanics%20and%20measured%20experiments.&descAlignY=58&descSize=16" alt="Orbit Wars animated header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,35:1d4ed8,70:9333ea,100:facc15&height=190&section=header&text=OrbitWars&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Agents%2C%20orbital%20mechanics%20and%20measured%20experiments.&descAlignY=58&descSize=16" alt="OrbitWars animated header" />
 
   <p>
     <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
