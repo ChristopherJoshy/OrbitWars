@@ -17,7 +17,7 @@ Start with `AGENTS.md`. This lowercase file exists so agents that look for `agen
 2. Continue from the dense-reward + exact/macro-action + alternating-seat repair path.
 3. Use short frozen-Chadman canaries before long runs.
 4. Promote to longer 2P/4P/mixed gates only after canaries show clean wins.
-5. Preserve the backup remote: `https://github.com/ChristopherJoshy/Orbit-Wars-2026.git`.
+5. Preserve the project remote: `https://github.com/ChristopherJoshy/OrbitWars.git`.
 
 ## Important files
 
